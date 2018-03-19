@@ -1,0 +1,3 @@
+-- Post test for createGenre
+Method:POST
+Header += {Name:Content-Type, value: "application/json"}

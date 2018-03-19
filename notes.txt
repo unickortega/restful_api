@@ -1,0 +1,20 @@
+Video tutorial
+https://www.youtube.com/watch?v=eB9Fq9I5ocs
+
+-- PLEASE SEE package.json for dependencies
+
+npm install nodemon
+install mongodb
+https://docs.mongodb.com/tutorials/install-mongodb-on-windows/
+
+this is using cmd
+use databaseName
+
+-- create table
+db.createCollection('tableName')
+
+-- insert table item
+db.tableName.insert({col1:"value"})
+
+-- fetch table items
+db.tableName.find().pretty()

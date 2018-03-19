@@ -1,0 +1,25 @@
+{
+  "name": "restful_api",
+  "version": "1.0.0",
+  "description": "Learning restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unickortega/restful_api.git"
+  },
+  "author": "uelmar ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unickortega/restful_api/issues"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.17.2"
+  },
+  "homepage": "https://github.com/unickortega/restful_api#readme"
+}
